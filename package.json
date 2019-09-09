@@ -1,9 +1,10 @@
 {
   "name": "better-video-embeds",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "module": "dist/better-video-embeds.esm.js",
   "typings": "dist/index.d.ts",
+  "license": "MIT",
   "files": [
     "dist"
   ],
