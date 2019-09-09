@@ -7,6 +7,8 @@ Pass in a url that should be a video embed link...and get back a properly format
 `npm i better-file-downloader`
 `yarn add better-file-downloader`
 
+[View on NPM](https://www.npmjs.com/package/better-video-embeds)
+
 For example:
 
 `https://www.youtube.com/watch?v=O9ydMYA8dmw` becomes `https://www.youtube.com/embed/O9ydMYA8dmw`
@@ -20,6 +22,8 @@ The api currently supports parsing out the following embed strings:
 - Wistia
 
 The library works with react and is fairly lightweight in size.
+
+You'll be converting your users dirty video links scripts into embed links that you can iframe in no time!
 
 ## Examples
 
